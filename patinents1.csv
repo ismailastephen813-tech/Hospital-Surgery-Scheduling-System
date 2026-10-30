@@ -1,0 +1,3 @@
+patient_id,name,procedure_name,urgency,complexity,waiting_days
+102,Michael James,Knee Surgery,5,5,10
+103,Smith Row,Minor Surgery,1,1,1

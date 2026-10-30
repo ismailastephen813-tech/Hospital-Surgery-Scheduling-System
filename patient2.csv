@@ -1,0 +1,2 @@
+patient_id,name,procedure_name,urgency,complexity,waiting_days
+23,Messi,ACL Surgery,7,6,1
